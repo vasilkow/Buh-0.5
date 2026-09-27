@@ -1,4 +1,4 @@
 BOT_TOKEN = "8697100952:AAHm15Q8JcOV0ducScv6HQBhs0hSCbU3Gys"
 ADMIN_IDS = [1294833037]
 BUSINESS_TAX_PERCENT = 5
-WEBAPP_URL = "https://treasury-api.railway.app"
+WEBAPP_URL = "buhweb-production.up.railway.app"
