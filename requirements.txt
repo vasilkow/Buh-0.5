@@ -1,4 +1,4 @@
-aiogram==3.3.0
+aiogram==3.4.0
 google-api-python-client==2.116.0
 aiosqlite==0.19.0
 requests==2.31.0
